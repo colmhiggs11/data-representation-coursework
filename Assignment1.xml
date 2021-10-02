@@ -1,0 +1,19 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+
+<Library>
+
+	<Technical_Books>
+		<TB_Tech1 IBSN="978-3-16-148410-0" title="Tech Graphics" author="Colm Higgins">
+		</TB_Tech1>
+		<TB_Tech2 IBSN="978-3-16-148411-1" title="Tech Drawing" author="Bob White">
+		</TB_Tech2>
+	</Technical_Books>
+	
+	<Cookery_Books>
+		<CB_Cook1 IBSN="978-3-16-148412-2" title="Cooking with Maeve" author="Maeve Daly">
+		</CB_Cook1>
+		<CB_Cook2 IBSN="978-3-16-148413-3" title="Another cookery book" author="John Doe">
+		</CB_Cook2>
+	</Cookery_Books>
+	
+</Library>
