@@ -18,7 +18,7 @@ for listing in listings:
     price = listing.find(class_="PropertyListingCard__Price").text
     entrylist.append(price)
     address = listing.find(class_="PropertyListingCard__Address").text
-    entrylist.append(address)
+    entrylist   .append(address)
 
     home_writer.writerow(entrylist)
 home_file.close()
